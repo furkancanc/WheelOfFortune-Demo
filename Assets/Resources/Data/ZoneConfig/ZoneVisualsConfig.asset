@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96eb193849a24e44892e0c5630600085, type: 3}
+  m_Name: ZoneVisualsConfig
+  m_EditorClassIdentifier: 
+  normalZoneTextColor: {r: 1, g: 1, b: 1, a: 1}
+  safeZoneTextColor: {r: 0.20091248, g: 1, b: 0, a: 1}
+  superZoneTextColor: {r: 1, g: 0.9538098, b: 0, a: 1}
+  currentZoneTextColor: {r: 0, g: 0, b: 0, a: 1}
+  passedZoneAlpha: 0.5
+  normalZoneBackground: {fileID: 21300000, guid: 21429c56df91cec40a9ef48fd84218d9,
+    type: 3}
+  safeZoneBackground: {fileID: 21300000, guid: 07d9ac8a0f5e83441a59e10faff24f23, type: 3}
+  superZoneBackground: {fileID: 21300000, guid: 5dc9162aa1784e24d89e92a36fdb0035,
+    type: 3}

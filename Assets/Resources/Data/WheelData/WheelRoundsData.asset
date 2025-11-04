@@ -1,0 +1,573 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c94674fbfa3704eb4a37e505073c1e, type: 3}
+  m_Name: WheelRoundsData
+  m_EditorClassIdentifier: 
+  roundSliceSets:
+  - Round: 1
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 2
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 3
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 4
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 5
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 3d1157be3e5a69d43bd46670eb00edc1, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 6
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 7
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 8
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 9
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 10
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 3559ef1cf2ae6d94c88e31d8e43f079c, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 11
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 100
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 12
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 13
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 14
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 15
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 894f749b6f9bc6149b02b6abfc86b56a, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 16
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 17
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 18
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 19
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 20
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0e7fb87c53377b94caa7bc9f88b114c6, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 21
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 22
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 23
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 24
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 25
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: f6b24c8c234d8984980978f3151ca4e3, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 26
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 27
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 28
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 29
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 2000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 200
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 2
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 30
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 5000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 3db56b6fbedd54e4191329f46d7b623e, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20
+  - Round: 31
+    Slices:
+    - Item: {fileID: 11400000, guid: aa5fc902208655d4f9a3010ba744b2a7, type: 2}
+      Count: 5000
+    - Item: {fileID: 11400000, guid: 704c05e25d1bfb14aa2ba397d644efcd, type: 2}
+      Count: 1000
+    - Item: {fileID: 11400000, guid: 0f8a68b4e88e90c4499747f8b3d81c6a, type: 2}
+      Count: 0
+    - Item: {fileID: 11400000, guid: 90553a20f41e0e9489535aa380e0325f, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 38e604926e740374cbb026ce6ddf53d0, type: 2}
+      Count: 1
+    - Item: {fileID: 11400000, guid: 9432225d7cb8cec43abdc54988c3b5d8, type: 2}
+      Count: 10
+    - Item: {fileID: 11400000, guid: 5be48d3420205c243888931d3f3e048b, type: 2}
+      Count: 15
+    - Item: {fileID: 11400000, guid: 082f583129c522442be481f4212b03c8, type: 2}
+      Count: 20

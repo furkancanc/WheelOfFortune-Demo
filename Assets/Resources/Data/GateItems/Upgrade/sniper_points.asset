@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c748b37e424956b40a7b30d5b85e7074, type: 3}
+  m_Name: sniper_points
+  m_EditorClassIdentifier: 
+  Id: sniper_points
+  DisplayName: Sniper Points
+  Icon: {fileID: 21300000, guid: 8eb33f01eb9d13d4184aef703922170a, type: 3}
+  Category: 3
+  ChestType: 0
+  CosmeticType: 1
+  CurrencyType: 0
+  UpgradeType: 6
+  WeaponSkinType: 0
